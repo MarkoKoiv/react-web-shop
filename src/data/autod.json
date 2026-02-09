@@ -1,0 +1,12 @@
+[
+  {"id": 8294, "nimi": "Tesla Model 3", "hind": 40000, "pilt": "", "aktiivne": true},
+  {"id": 1502, "nimi": "Toyota Camry", "hind": 35000, "pilt": "", "aktiivne": true},
+  {"id": 6731, "nimi": "Ford F-15", "hind": 55000, "pilt": "", "aktiivne": true},
+  {"id": 4489, "nimi": "BMW M4", "hind": 80000, "pilt": "", "aktiivne": true},
+  {"id": 9127, "nimi": "Porsche 911", "hind": 120000, "pilt": "", "aktiivne": false},
+  {"id": 3340, "nimi": "Honda Civic", "hind": 28000, "pilt": "", "aktiivne": true},
+  {"id": 5562, "nimi": "Chevrolet Corvette", "hind": 75000, "pilt": "", "aktiivne": true},
+  {"id": 2088, "nimi": "Audi Q5", "hind": 50000, "pilt": "", "aktiivne": true},
+  {"id": 7815, "nimi": "Mercedes-Benz S-Class", "hind": 110000, "pilt": "", "aktiivne": false},
+  {"id": 4923, "nimi": "Hyundai Ioniq 5", "hind": 45000, "pilt": "", "aktiivne": true}
+]

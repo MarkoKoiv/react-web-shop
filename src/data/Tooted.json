@@ -1,0 +1,14 @@
+[
+  { "id": 1, "nimi": "Coca", "hind": 1.50, "pilt": "https://media.istockphoto.com/id/487787108/it/foto/lattina-di-coca-cola-su-ghiaccio.jpg?s=612x612&w=0&k=20&c=6CaGyoxuHEW8Kv5GlUQG-uq0vZnUB540xQZS7yyFNAE=", "aktiivne": true },
+  { "id": 2, "nimi": "Fanta", "hind": 1.40, "pilt": "https://api.candypop.lt/media/image/ae/af/7a04cf79183024dabf5757982cba.jpg", "aktiivne": true },
+  { "id": 3, "nimi": "Sprite", "hind": 1.40, "pilt": "https://f8.pmo.ee/e6e9VIDR7N-qmdbOU5B29vSX2aU=/1200x630/filters:focal(222x308:819x632):format(webp)/nginx/o/2022/07/28/14723748t1h3879.jpg", "aktiivne": true },
+  { "id": 4, "nimi": "Vichy", "hind": 1.20, "pilt": "https://imageproxy.wolt.com/assets/667941c8a1ccf454349a6b19", "aktiivne": true },
+  { "id": 5, "nimi": "Red Bull", "hind": 2.50, "pilt": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_limit,dpr_3.0,f_auto,q_auto:low,w_400/d_ecommerce:backend-fallback.png/MAT_1350925_PCE_EE", "aktiivne": true },
+  { "id": 6, "nimi": "Aura", "hind": 1.10, "pilt": "https://sinuepood.ee/wp-content/uploads/product_images/4740098083511.jpg", "aktiivne": true },
+  { "id": 7, "nimi": "Monster Energy", "hind": 2.60, "pilt": "https://imageproxy.wolt.com/menu/menu-images/66a0af4aa895c65b75b21aed/9acf0624-5485-11ef-a685-52070729078b_t000016800.jpg", "aktiivne": true },
+  { "id": 8, "nimi": "Pepsi", "hind": 1.45, "pilt": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_limit,dpr_3.0,f_auto,q_auto:low,w_400/d_ecommerce:backend-fallback.png/MAT_1360385_PCE_EE", "aktiivne": true },
+  { "id": 9, "nimi": "7Up", "hind": 1.40, "pilt": "https://imageproxy.wolt.com/assets/68399063d8c6ba609dffd60a", "aktiivne": true },
+  { "id": 10, "nimi": "Lipton", "hind": 1.60, "pilt": "https://www.lansgrupo.com/wp-content/uploads/2022/06/Lipton-Ice-Tea-Lemon-5.jpg", "aktiivne": true },
+  { "id": 11, "nimi": "Schweppes", "hind": 1.70, "pilt": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_limit,dpr_3.0,f_auto,q_auto:low,w_400/d_ecommerce:backend-fallback.png/MAT_1366291_PCE_EE", "aktiivne": false },
+  { "id": 12, "nimi": "Nestea", "hind": 1.55, "pilt": "https://imageproxy.wolt.com/assets/6839b8a5e3e69835ce1c8249", "aktiivne": true }
+]
